@@ -1,0 +1,9 @@
+q1.py refers to question1
+q2.py refers to question2
+q3.py refers to question3
+q4.py refers to question4
+q5.py refers to question5
+q6.py refers to question6
+When trying to run these programmes, just follow what the programme is saying.
+for example, when running q1, enter the final account value in line one and then press 'Enter' in your keyboard, the programme will move to another line, then enter the anuual rate and press 'Enter',then enter number of years and press 'Enter', then result will be printed out.
+If you do anything wrong, the progrmme will inform you.
